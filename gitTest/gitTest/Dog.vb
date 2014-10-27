@@ -1,3 +1,3 @@
-﻿Public Class Dog
-
+Public Class Dog
+'TEST
 End Class
