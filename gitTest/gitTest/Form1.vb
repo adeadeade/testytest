@@ -3,7 +3,7 @@
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
 
         Dim varStr As String = ""
-        MsgBox("")
+        MsgBox("TEST")
 
     End Sub
 End Class
